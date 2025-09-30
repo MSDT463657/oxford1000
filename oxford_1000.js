@@ -1,4 +1,4 @@
-[
+window.oxfordWords = [
   "a","able","about","above","across","act","active","activity","add","afraid",
   "after","afternoon","again","age","ago","agree","air","all","allow","always",
   "am","amount","an","and","angry","animal","another","answer","any","anyone",
